@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 Reddit Clone
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 Angular, J2EE
 
 <!--
