@@ -10,8 +10,9 @@ Angular, J2EE
 
 Here are some ideas to get you started:
 
+<!-- 
 - 🔭 I’m currently working on ...
-Reddit Clone
+-->
 - 🌱 I’m currently learning ...
 Angular, J2EE
 - 👯 I’m looking to collaborate on ...
